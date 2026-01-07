@@ -1,4 +1,4 @@
-# React Refs Playground (Vite + React 19)
+# React 19.2 - Lesson 25 - Referencing Values with Refs
 
 A minimal, ready-to-run playground to learn **React refs** (`useRef`) with practical examples:
 - Stopwatch with interval ID stored in a ref
